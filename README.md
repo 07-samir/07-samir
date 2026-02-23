@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hallo, ich bin Samir 👋
 
-<!--
-**07-samir/07-samir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]Ich bin ein **dualer Student der Wirtschaftsinformatik** an der Hochschule Worms und sammle bei der **DB Cargo AG** fundierte Praxiserfahrung an der Schnittstelle von Technologie und Organisation.
 
-Here are some ideas to get you started:
+### 🔭 Praxisphasen & Projekte bei DB Cargo AG
+[cite_start]Da ich mein Studium dual absolviere, konnte ich bereits an verschiedenen Projekten im Konzernumfeld mitwirken.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [cite_start]**Cloud Data Engineering (Projekt "Wagon Intelligence"):** Entwicklung eines automatisierten Monitorings für AWS-Data-Pipelines und Transformation von Massendaten mit **PySpark**
+* [cite_start]**Data Analytics & Reporting:** Konzeption eines KPI-Frameworks zur IT-Steuerung und Entwicklung von Reporting-Lösungen mit direkter **Data-Lake-Anbindung**
+* [cite_start]**IT-Infrastruktur & Prozessoptimierung:** Analyse von Systemlandschaften, Konzeption von SharePoint-Informationssystemen und Reduktion von Systemkomplexität
+
+### 🛠 Tech Stack
+* [cite_start]**Sprachen:** Python, SQL, C# 
+* [cite_start]**Daten & Cloud:** PySpark, AWS, Power BI 
+* [cite_start]**Tools:** SharePoint, Figma, Process-Simulation-Center
+
+---
+📫 **Kontakt:**
+- [cite_start]**E-Mail:** [samir.t.bildat@gmail.com](mailto:samir.t.bildat@gmail.com) 
+- **LinkedIn:** [Dein Profil-Link hier einfügen]
