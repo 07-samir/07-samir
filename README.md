@@ -17,4 +17,4 @@ Da ich mein Studium dual absolviere, konnte ich bereits an verschiedenen Projekt
 ---
 📫 **Kontakt:**
 - **E-Mail:** [samir.t.bildat@gmail.com](mailto:samir.t.bildat@gmail.com) 
-- **LinkedIn:** [www.linkedin.com/in/samir-timur-bildat-98a2a432a]
+- **LinkedIn:** www.linkedin.com/in/samir-timur-bildat-98a2a432a
